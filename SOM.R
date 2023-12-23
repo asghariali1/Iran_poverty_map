@@ -1,4 +1,4 @@
-setwd("/media/asghariali/New Volume/d")
+
 
 library(kohonen)
 library(purrr)
